@@ -18,7 +18,7 @@ http://13.206.70.48
 
 ## Dashboard
 
-![Dashboard](EC2.png)
+![Dashboard](cost.png)
 
 ---
 
